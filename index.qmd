@@ -1,5 +1,5 @@
 ---
-title: ISPGR workshop - Bridging the Gap: Best Practices in Mobile Brain Imaging
+title: ISPGR workshop // Bridging the Gap - Best Practices in Mobile Brain Imaging
 ---
 
 # Welcome
@@ -16,7 +16,7 @@ The day will consist of presentations, hands-on sessions and discussions. We wil
 | Time  | Topic                     | Speaker(s)                              | Description                                                                                  | Slides         |
 |-------|---------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------|----------------|
 | 9:00  | Introduction              | Vivian Weerdesteyn                     | Intro to mobile brain imaging and its potential.                                             | [Slides](#)    |
-| 9:05  | Multimodal setups         | Sue Peters, Julius Welzel, Vaishali Vinod | Overview of EEG and fNIRS data synchronization with LSL.                                     | [Slides](#)    |
+| 9:05  | Multimodal setups         | Sue Peters, Julius Welzel, Vaishali Vinod | Overview of EEG and fNIRS data synchronization with LSL.                                     | [Slides](slides/lsl_welzel.pdf)    |
 | 9:40  | Data collection           | Konstantinos Tsikrikis, Joris van der Cruijsen, Julius Welzel, Vaishali Vinod, Natalie Richer | Hands-on mobile fNIRS or EEG data collection in combination with other modalities.           | [Slides](#)    |
 | 10:30 | Break                     |                                         |                                                                                              |                |
 | 10:45 | Data (pre-)processing     | Konstantinos Tsikrikis, Joris van der Cruijsen, Julius Welzel | Example data (pre-)processing.                                                              | [Slides](#)    |
