@@ -1,0 +1,36 @@
+---
+title: ISPGR workshop - Bridging the Gap: Best Practices in Mobile Brain Imaging
+---
+
+# Welcome
+Welcome to workshop website.
+
+![](treadmill_walking.png){width="50%" fig-align="center"}
+
+## Introduction
+The workshop will be held on the 28th of June in Maastricht.
+
+### Timetable
+The day will consist of presentations, hands-on sessions and discussions. We will cover:
+
+| Time  | Topic                     | Speaker(s)                              | Description                                                                                  | Slides         |
+|-------|---------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------|----------------|
+| 9:00  | Introduction              | Vivian Weerdesteyn                     | Intro to mobile brain imaging and its potential.                                             | [Slides](#)    |
+| 9:05  | Multimodal setups         | Sue Peters, Julius Welzel, Vaishali Vinod | Overview of EEG and fNIRS data synchronization with LSL.                                     | [Slides](#)    |
+| 9:40  | Data collection           | Konstantinos Tsikrikis, Joris van der Cruijsen, Julius Welzel, Vaishali Vinod, Natalie Richer | Hands-on mobile fNIRS or EEG data collection in combination with other modalities.           | [Slides](#)    |
+| 10:30 | Break                     |                                         |                                                                                              |                |
+| 10:45 | Data (pre-)processing     | Konstantinos Tsikrikis, Joris van der Cruijsen, Julius Welzel | Example data (pre-)processing.                                                              | [Slides](#)    |
+| 11:45 | Wrap-up                   | Sue Peters, Konstantinos Tsikrikis, Natalie Richer, Bettina Wollesen | Pitfalls, practical considerations, and potential study designs.                             | [Slides](#)    |
+
+
+All slides and materials will be made avaliable online after the meeting.
+
+## Location
+The workshop will be take place at ....
+
+## Transportation
+If you are familiar with using a bike, the best way to get around in Maastricht is by bike. Renting a bike is therefore recommended (Stay safe though!).
+Alternatively the use of the public transport (trams, buses) is recommended. You can check in and out (don't forget to check out) with your bank card.
+
+## Organizers
+The meeting is organized by [Julius](mailto:j.welzel@neurologie.uni-kiel.de?subject=StepuP%20meeting) and ...

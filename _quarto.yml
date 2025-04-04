@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ISPGR MOBI workshop"
+  # cookie-consent: true
+  navbar:
+    background: primary
+    pinned: true
+    left:
+      - text: Home
+        href: index.qmd
+
+  page-footer: 
+    left: "Copyright 2025, Julius Welzel" 
+
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
