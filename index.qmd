@@ -15,12 +15,12 @@ The day will consist of presentations, hands-on sessions and discussions. We wil
 
 | Time  | Topic                     | Speaker(s)                              | Description                                                                                  | Slides         |
 |-------|---------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------|----------------|
-| 9:00  | Introduction              | Vivian Weerdesteyn                     | Intro to mobile brain imaging and its potential.                                             | [Slides](#)    |
-| 9:05  | Multimodal setups         | Sue Peters, Julius Welzel, Vaishali Vinod | Overview of EEG and fNIRS data synchronization with LSL.                                     | [Slides](slides/lsl_welzel.pdf)    |
-| 9:40  | Data collection           | Konstantinos Tsikrikis, Joris van der Cruijsen, Julius Welzel, Vaishali Vinod, Natalie Richer | Hands-on mobile fNIRS or EEG data collection in combination with other modalities.           | [Slides](#)    |
-| 10:30 | Break                     |                                         |                                                                                              |                |
-| 10:45 | Data (pre-)processing     | Konstantinos Tsikrikis, Joris van der Cruijsen, Julius Welzel | Example data (pre-)processing.                                                              | [Slides](#)    |
-| 11:45 | Wrap-up                   | Sue Peters, Konstantinos Tsikrikis, Natalie Richer, Bettina Wollesen | Pitfalls, practical considerations, and potential study designs.                             | [Slides](#)    |
+| 8:30  | Introduction              | Vivian Weerdesteyn                     | Intro to mobile brain imaging and its potential.                                             | [Slides](#)    |
+| 8:35  | Multimodal setups         | Sue Peters, Julius Welzel | Overview of EEG and fNIRS data synchronization with LSL.                                     | [Slides](slides/lsl_welzel.pdf)    |
+| 9:10  | Data collection           | Everyone supported by [mbt](https://mbraintrain.com/) and [NIRX](https://nirx.net/) | Hands-on mobile fNIRS or EEG data collection in combination with other modalities.           | [Slides](#)    |
+| 10:10 | Break                     |                                         |                                                                                              |                |
+| 10:30 | Data (pre-)processing     | Konstantinos Tsikrikis, Joris van der Cruijsen | Example data (pre-)processing.                                                              | [Slides](#)    |
+| 11:30 | Wrap-up                   | Sue Peters, Natalie Richer | Pitfalls, practical considerations, and potential study designs.                             | [Slides](#)    |
 
 
 All slides and materials will be made avaliable online after the meeting.
