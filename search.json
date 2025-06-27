@@ -4,34 +4,27 @@
     "href": "index.html",
     "title": "ISPGR workshop // Bridging the Gap - Best Practices in Mobile Brain Imaging",
     "section": "",
-    "text": "Welcome to workshop website.\n\n\n\n\n\n\n\nThe workshop will be held on the 28th of June in Maastricht.\n\n\nThe day will consist of presentations, hands-on sessions and discussions. We will cover:\n\n\n\nTime\nTopic\nSpeaker(s)\nDescription\nSlides\n\n\n\n\n8:30\nIntroduction\nVivian Weerdesteyn\nIntro to mobile brain imaging and its potential.\nSlides\n\n\n8:35\nMultimodal setups\nSue Peters, Julius Welzel\nOverview of EEG and fNIRS data synchronization with LSL.\nSlides\n\n\n9:10\nData collection\nEveryone supported by mbt and NIRX\nHands-on mobile fNIRS or EEG data collection in combination with other modalities.\nSlides\n\n\n10:10\nBreak\n\n\n\n\n\n10:30\nData (pre-)processing\nKonstantinos Tsikrikis, Joris van der Cruijsen\nExample data (pre-)processing.\nSlides\n\n\n11:30\nWrap-up\nSue Peters, Natalie Richer\nPitfalls, practical considerations, and potential study designs.\nSlides\n\n\n\nAll slides and materials will be made avaliable online after the meeting.\n\n\n\n\nThe workshop will be take place at ….\n\n\n\nIf you are familiar with using a bike, the best way to get around in Maastricht is by bike. Renting a bike is therefore recommended (Stay safe though!). Alternatively the use of the public transport (trams, buses) is recommended. You can check in and out (don’t forget to check out) with your bank card.\n\n\n\nThe meeting is organized by Julius and …"
+    "text": "Welcome to workshop website.\n\n\n\n\n\n\n\nThe workshop will be held on the 28th of June in Maastricht.\n\n\nThe day will consist of presentations, hands-on sessions and discussions. We will cover:\n\n\n\nTime\nTopic\nSpeaker(s)\nDescription\nSlides\n\n\n\n\n8:30\nIntroduction\nVivian Weerdesteyn\nIntro to mobile brain imaging and its potential.\nSlides\n\n\n8:35\nMultimodal setups\nSue Peters, Vaishali Vinod\nOverview of EEG and fNIRS data synchronization with LSL.\nSlides\n\n\n9:10\nData collection\nEveryone supported by mbt and NIRX\nHands-on mobile fNIRS or EEG data collection in combination with other modalities.\nSlides\n\n\n10:10\nBreak\n\n\n\n\n\n10:30\nData (pre-)processing\nKonstantinos Tsikrikis, Joris van der Cruijsen, Tjeerd Boonstra\nExample data (pre-)processing.\nSlides\n\n\n11:30\nWrap-up\nSue Peters, Natalie Richer\nPitfalls, practical considerations, and potential study designs.\nSlides\n\n\n\nAll slides and materials will be made avaliable online after the meeting.\n\n\n\n\nThe workshop will be take place at room 0.8Rome at the MECC Maastricht, Forum 100, 6229 GV Maastricht, Netherlands.\n\n\n\nIf you are familiar with using a bike, the best way to get around in Maastricht is by bike. Renting a bike is therefore recommended (Stay safe though!)."
   },
   {
     "objectID": "index.html#introduction",
     "href": "index.html#introduction",
     "title": "ISPGR workshop // Bridging the Gap - Best Practices in Mobile Brain Imaging",
     "section": "",
-    "text": "The workshop will be held on the 28th of June in Maastricht.\n\n\nThe day will consist of presentations, hands-on sessions and discussions. We will cover:\n\n\n\nTime\nTopic\nSpeaker(s)\nDescription\nSlides\n\n\n\n\n8:30\nIntroduction\nVivian Weerdesteyn\nIntro to mobile brain imaging and its potential.\nSlides\n\n\n8:35\nMultimodal setups\nSue Peters, Julius Welzel\nOverview of EEG and fNIRS data synchronization with LSL.\nSlides\n\n\n9:10\nData collection\nEveryone supported by mbt and NIRX\nHands-on mobile fNIRS or EEG data collection in combination with other modalities.\nSlides\n\n\n10:10\nBreak\n\n\n\n\n\n10:30\nData (pre-)processing\nKonstantinos Tsikrikis, Joris van der Cruijsen\nExample data (pre-)processing.\nSlides\n\n\n11:30\nWrap-up\nSue Peters, Natalie Richer\nPitfalls, practical considerations, and potential study designs.\nSlides\n\n\n\nAll slides and materials will be made avaliable online after the meeting."
+    "text": "The workshop will be held on the 28th of June in Maastricht.\n\n\nThe day will consist of presentations, hands-on sessions and discussions. We will cover:\n\n\n\nTime\nTopic\nSpeaker(s)\nDescription\nSlides\n\n\n\n\n8:30\nIntroduction\nVivian Weerdesteyn\nIntro to mobile brain imaging and its potential.\nSlides\n\n\n8:35\nMultimodal setups\nSue Peters, Vaishali Vinod\nOverview of EEG and fNIRS data synchronization with LSL.\nSlides\n\n\n9:10\nData collection\nEveryone supported by mbt and NIRX\nHands-on mobile fNIRS or EEG data collection in combination with other modalities.\nSlides\n\n\n10:10\nBreak\n\n\n\n\n\n10:30\nData (pre-)processing\nKonstantinos Tsikrikis, Joris van der Cruijsen, Tjeerd Boonstra\nExample data (pre-)processing.\nSlides\n\n\n11:30\nWrap-up\nSue Peters, Natalie Richer\nPitfalls, practical considerations, and potential study designs.\nSlides\n\n\n\nAll slides and materials will be made avaliable online after the meeting."
   },
   {
     "objectID": "index.html#location",
     "href": "index.html#location",
     "title": "ISPGR workshop // Bridging the Gap - Best Practices in Mobile Brain Imaging",
     "section": "",
-    "text": "The workshop will be take place at …."
+    "text": "The workshop will be take place at room 0.8Rome at the MECC Maastricht, Forum 100, 6229 GV Maastricht, Netherlands."
   },
   {
     "objectID": "index.html#transportation",
     "href": "index.html#transportation",
     "title": "ISPGR workshop // Bridging the Gap - Best Practices in Mobile Brain Imaging",
     "section": "",
-    "text": "If you are familiar with using a bike, the best way to get around in Maastricht is by bike. Renting a bike is therefore recommended (Stay safe though!). Alternatively the use of the public transport (trams, buses) is recommended. You can check in and out (don’t forget to check out) with your bank card."
-  },
-  {
-    "objectID": "index.html#organizers",
-    "href": "index.html#organizers",
-    "title": "ISPGR workshop // Bridging the Gap - Best Practices in Mobile Brain Imaging",
-    "section": "",
-    "text": "The meeting is organized by Julius and …"
+    "text": "If you are familiar with using a bike, the best way to get around in Maastricht is by bike. Renting a bike is therefore recommended (Stay safe though!)."
   }
 ]
