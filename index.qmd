@@ -15,12 +15,14 @@ The day will consist of presentations, hands-on sessions and discussions. We wil
 
 | Time  | Topic                     | Speaker(s)                              | Description                                                                                  | Slides         |
 |-------|---------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------|----------------|
-| 8:30  | Introduction              | Vivian Weerdesteyn                     | Intro to mobile brain imaging and its potential.                                             | [Slides](#)    |
-| 8:35  | Multimodal setups         | Sue Peters, Vaishali Vinod | Overview of EEG and fNIRS data synchronization with LSL.                                     | [Slides](slides/lsl_welzel.pdf)    |
-| 9:10  | Data collection           | Everyone supported by [mbt](https://mbraintrain.com/) and [NIRX](https://nirx.net/) | Hands-on mobile fNIRS or EEG data collection in combination with other modalities.           | [Slides](#)    |
+| 8:30  | Introduction              | Vivian Weerdesteyn                     | Intro to mobile brain imaging and its potential.                                             | [Slides](slides/vivian_intro.pdf)    |
+| 8:35  | Multimodal setups         | Sue Peters, Vaishali Vinod | Overview of EEG and fNIRS data synchronization with LSL.                                     | [Slides fNIRS](slides/sue_multimodal_fnirs_plus_wrapup.pdf.pdf)
+[Slides EEG](slides/lila_sync_eeg.pdf)    |
+| 9:10  | Data collection           | Everyone supported by [mbt](https://mbraintrain.com/) and [NIRX](https://nirx.net/) | Hands-on mobile fNIRS or EEG data collection in combination with other modalities.           |     |
 | 10:10 | Break                     |                                         |                                                                                              |                |
-| 10:30 | Data (pre-)processing     | Konstantinos Tsikrikis, Joris van der Cruijsen, Tjeerd Boonstra | Example data (pre-)processing.                                                              | [Slides](#)    |
-| 11:30 | Wrap-up                   | Sue Peters, Natalie Richer | Pitfalls, practical considerations, and potential study designs.                             | [Slides](#)    |
+| 10:30 | Data (pre-)processing     | Konstantinos Tsikrikis, Joris van der Cruijsen, Tjeerd Boonstra | Example data (pre-)processing.                                                              | [Slides EEG 1](slides/joris_eeg_preprocessing.pdf) 
+[Slides EEG 2](slides/tjeerd_gait_related_eeg_processing_2.pdf)   |
+| 11:30 | Wrap-up                   | Sue Peters, Natalie Richer | Pitfalls, practical considerations, and potential study designs.                             | [Slides](slides/sue_multimodal_fnirs_plus_wrapup.pdf)    |
 
 
 All slides and materials will be made avaliable online after the meeting.
@@ -28,5 +30,15 @@ All slides and materials will be made avaliable online after the meeting.
 ## Location
 The workshop will be take place at room 0.8Rome at the MECC Maastricht, Forum 100, 6229 GV Maastricht, Netherlands.
 
-## Transportation
-If you are familiar with using a bike, the best way to get around in Maastricht is by bike. Renting a bike is therefore recommended (Stay safe though!).
+## Additional information
+For more information about the workshop, please contact [Julius Welzel](mailto:j.welzel@neurologie.uni-kiel.de)
+
+### Tutorials EEG processing
+
+**MatLab**
+- [EEG preprocessing in EEGLab](https://eeglab.org/tutorials/)
+- [EEG preprocessing in FieldTrip](https://www.fieldtriptoolbox.org/development/module/preproc/)
+
+** Python**
+- [MNE-Python Intro](https://mne.tools/stable/auto_tutorials/index.html#preprocessing)
+- [MNE-Python ICA tutorial](https://mne.tools/stable/auto_tutorials/preprocessing/40_artifact_correction_ica.html#sphx-glr-auto-tutorials-preprocessing-40-artifact-correction-ica-py)
